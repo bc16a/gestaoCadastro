@@ -69,3 +69,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # gestaoCadastro
+
+### Home Page
+Neste projeto tem uma pagina principal que tem dois bottão de redirecionamentp. Um é para cliente e outro é para produto.
+
+### Client page 
+Nesta pagina pode cadastrar os clientes e depois que finalizar ele redirecionar para home page automaticamente.
+
+### Product page
+Nesta página pode cadastrar os produtos e depois finalizar já redirecionar para home page automaticamente.
+
+### O bottão Back 
+Caso precisa volta para home page simplemente clica neste bottão.
+
+### Por fim 
+No caso final os dados estão todo no localStorage como Clients e products
